@@ -34,7 +34,7 @@ Best lambda value for the boxcox transform is 1.0169. The data is transformed an
 
 ## Prediction:
 
-<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/prediction.png" width="500">
+<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/prediction.png" width="1000">
 
 ## Performance of the model:
 
