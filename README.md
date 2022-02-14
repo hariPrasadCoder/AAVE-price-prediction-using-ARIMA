@@ -8,13 +8,13 @@ The purpose of this project is to create an ARIMA (AutoRegressive Integrated Mov
 
 The historical data of AAVE is collected from Investing.com [Link to the dataset](https://www.investing.com/crypto/aave/historical-data)
 
-<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/Investing.png" width="300">
+<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/Investing.png" width="100">
 
 ## Data description:
 
 The data contains the historical prices of AAVE from Nov 05, 2020 to Feb 13, 2022.
 
-[Image]
+<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/AAVE%20price%20trend.png" width="500">
 
 ## Baseline model - Persistence model:
 
@@ -34,7 +34,7 @@ Best lambda value for the boxcox transform is 1.0169. The data is transformed an
 
 ## Prediction:
 
-[Image]
+<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/prediction.png" width="500">
 
 ## Performance of the model:
 
