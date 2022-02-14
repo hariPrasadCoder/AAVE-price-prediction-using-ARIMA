@@ -8,6 +8,8 @@ The purpose of this project is to create an ARIMA (AutoRegressive Integrated Mov
 
 The historical data of AAVE is collected from Investing.com [Link to the dataset](https://www.investing.com/crypto/aave/historical-data)
 
+<img src="https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/Investing.png" width="300">
+
 ## Data description:
 
 The data contains the historical prices of AAVE from Nov 05, 2020 to Feb 13, 2022.
