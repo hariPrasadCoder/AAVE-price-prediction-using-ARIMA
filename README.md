@@ -1,6 +1,6 @@
 # AAVE-price-prediction-using-ARIMA
 
-![AAVE logo]('https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/AAVE.jpg')
+![AAVE logo](https://github.com/hariPrasadCoder/AAVE-price-prediction-using-ARIMA/blob/main/images/AAVE.jpg)
 
 The purpose of this project is to create an ARIMA (AutoRegressive Integrated Moving Average) model to predict the future prices of AAVE.
 
